@@ -1,0 +1,13 @@
+{
+  "name": "mi-web-personal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web personal y portfolio de Izei Gavilán",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "resend": "^4.0.0"
+  }
+}
